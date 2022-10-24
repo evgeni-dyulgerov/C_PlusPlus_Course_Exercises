@@ -141,6 +141,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="exercise1.h" />
+    <ClInclude Include="task1.h" />
+    <ClInclude Include="task2.h" />
+    <ClInclude Include="task3.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exercise1.cpp" />
