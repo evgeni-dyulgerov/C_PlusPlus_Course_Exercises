@@ -22,7 +22,11 @@
     <ClCompile Include="exercise2.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="exercise2.h" />
+    <ClInclude Include="exercise2-example1.h" />
+    <ClInclude Include="exercise2-example2.h" />
+    <ClInclude Include="exercise2-example3.h" />
+    <ClInclude Include="task1.h" />
+    <ClInclude Include="task2.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

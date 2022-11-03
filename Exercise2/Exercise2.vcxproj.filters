@@ -20,7 +20,19 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="exercise2.h">
+    <ClInclude Include="exercise2-example1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise2-example2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise2-example3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="task1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="task2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

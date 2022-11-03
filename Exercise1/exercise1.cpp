@@ -10,9 +10,11 @@ using namespace exercise1;
 
 int main()
 {
-	/* Exercise 1 - Classes and objects */
+	/* Exercise 1 - Classes and Objects */
 
 	/* Example task 1 - Triangle */
+
+	cout << "\n\n----- Example task 1 (Classes and Objects) -----\n";
 
 	triangle ob1; //Създаване на обект ob1 от клас triangle
 	double s;
@@ -28,12 +30,16 @@ int main()
 
 	/* Practice task 1 - Time */
 
+	cout << "\n\n----- Practice task 1 (Time) -----\n";
+
 	Time time1; //Създаване на обект time1 от клас Time
 	time1.setTime(); //Извиква се член-функция setTime() за обект time1
 	time1.printTimeInFormat1(); //Извиква се член-функция printTimeInFormat1() за обект time1
 	time1.printTimeInFormat2(); //Извиква се член-функция printTimeInFormat2() за обект time1
 
 	/* Practice task 2 - Employee */
+
+	cout << "\n\n----- Practice task 2 (Employee) -----\n";
 
 	//Създавене на обект от тип Employee използвайки предефиниран конструктор
 	Employee e1;
@@ -73,6 +79,8 @@ int main()
 	cout << "\n\nAverage salary: " << e2.averageSalary() << " Minimal salary: " << e2.minimalSalary();
 
 	/* Practice task 3 - Line */
+
+	cout << "\n\n----- Practice task 3 (Line) -----\n\n";
 
 	Line line(10); //Създаваме обект от тип Line с дължина 10
 

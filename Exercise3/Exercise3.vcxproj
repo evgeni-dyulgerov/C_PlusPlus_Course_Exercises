@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="exercise3.h" />
+    <ClInclude Include="exercise3-example1.h" />
+    <ClInclude Include="exercise3-example2.h" />
+    <ClInclude Include="task1.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exercise3.cpp" />
