@@ -15,18 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="exercise5.cpp">
+    <ClCompile Include="exercise6.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="exercise5-example1.h">
+    <ClInclude Include="exercise6-example1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise6-example2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise6-example3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="lab-code.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="task1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

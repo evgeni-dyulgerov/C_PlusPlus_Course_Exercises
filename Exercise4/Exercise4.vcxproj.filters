@@ -23,5 +23,8 @@
     <ClInclude Include="exercise4-example1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="task1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
