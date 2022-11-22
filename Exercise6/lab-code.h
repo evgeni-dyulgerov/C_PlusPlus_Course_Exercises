@@ -9,7 +9,7 @@ using std::endl;
 
 namespace exercise6
 {
-    class CBox                             // Class definition at global scope
+    class CBox // Class definition at global scope
     {
     public:
         // Constructor definition
