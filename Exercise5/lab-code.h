@@ -6,8 +6,8 @@ using namespace std;
 
 namespace exercise5
 {
-	enum ZooLocs { ZOOANIMAL, BEAR, PANDA };
-	static const char* locTable[] = {"Whole zoo area","North B1: brown area","East B1,P area" };
+	enum ZooLocs { ZOOANIMAL, BEAR, PANDA, TIGER, ELEPHANT };
+	static const char* locTable[] = {"Whole zoo area","North B1: brown area","East B1,P area", "Exotic animals area 1", "Exotic animals area 2"};
 	class ZooAnimal {
 		friend void print(ZooAnimal*);
 	public:

@@ -4,6 +4,7 @@
 #include <math.h>
 #include "exercise5-example1.h"
 #include "lab-code.h"
+#include "task1.h"
 using namespace std;
 using namespace exercise5;
 
@@ -21,6 +22,12 @@ int main()
     cout << "Virtual Function Example\n";
     headPtr = makelist(headPtr);
     print(headPtr);
+
+    /* Example task 1 - Media Collection Tools */
+    cout << "\n\n----- Practice task 1 (Zoo with Tiger and Elephant) -----\n";
+
+    taskPtr = makeTask1List(taskPtr);
+    print(taskPtr);
 
     return 0;
 }
